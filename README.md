@@ -10,7 +10,7 @@ XBMCtorrent was created by [steeve](https://github.com/steeve) but is no longer 
 How is it different from XBMCtorrent?
 -------------------------------------
 KODItorrent has a more simple design and comes with more options. 
-Some of the extra options include being able to download the whole file instead of streaming it and having the option to download all MP4's and M4V's so you will no longer get playback issues like you see with XBMCtorrent. Make sure to check out the new settings!
+Some of the extra options include being able to download the whole file instead of streaming it and having the option to download all MP4's and M4V's so you will no longer get playback issues like you see with XBMCtorrent. MAKE SURE TO CHECK OUT THE NEW SETTINGS!
 
 Screenshots
 -----------
