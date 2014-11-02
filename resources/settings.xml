@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+        <setting label="General" type="lsep" />
+        <setting id="dlpath" type="folder" label="Download Path" source="auto" option="writeable" />
+        <setting id="keep_files" type="bool" label="Keep Files After Playback/Download Stops" default="false" />
+        <setting id="download_full_file" label="Download Full File/Do Not Stream" type="bool" default="false" />
+        <setting id="download_full_file_MP4_M4V" label="Download Full File If File Type Is MP4 or M4V" type="bool" default="true" />
+        <setting id="MP4_M4V_message" label="Let Me Know If File Type Is MP4 Or M4V" type="bool" default="true" />
+
+        <setting label="Content" type="lsep"/>
+        <setting id="immunicity" type="bool" label="Auto-unblocking via Immunicity" default="false" />
+        <setting id="porn" type="bool" label="Allow Adult Content?" default="false" />
+
+        <setting label="BitTorrent" type="lsep"/>
+        <setting id="magnet_boost" label="Magnet Booster" type="bool" default="true" />
+        <setting id="max_download_rate" label="Max Download Rate (kB/s)" type="number" default="" />
+        <setting id="min_download_size" label="Buffer Size in Mb/S" type="number" default="20" />
+        <setting id="encryption" label="Encryption" type="enum" values="Forced|Enabled|Disabled" default="1" />
+    </category>
+    <category label="Advanced">
+        <setting label="Language" type="lsep"/>
+        <setting id="pref_language" type="labelenum" label="Preferred Metadata Language" values="system|aa|ab|af|am|ar|as|ay|az|ba|be|bg|bh|bi|bn|bo|br|ca|co|cs|cy|da|de|dz|el|en|eo|es|et|eu|fa|fi|fj|fo|fr|fy|ga|gd|gl|gn|gu|ha|hi|hr|hu|hy|ia|ie|ik|in|is|it|iw|ja|ji|jw|ka|kk|kl|km|kn|ko|ks|ku|ky|la|ln|lo|lt|lv|mg|mi|mk|ml|mn|mo|mr|ms|mt|my|na|ne|nl|no|oc|om|or|pa|pl|ps|pt|qu|rm|rn|ro|ru|rw|sa|sd|sg|sh|si|sk|sl|sm|sn|so|sq|sr|ss|st|su|sv|sw|ta|te|tg|th|ti|tk|tl|tn|to|tr|ts|tt|tw|uk|ur|uz|vi|vo|wo|xh|yo|zh|zu" default="system" />
+
+        <setting label="XBMC Library Integration" type="lsep"/>
+        <setting type="action" label="Install" action="RunPlugin(plugin://plugin.video.stream/library/install)" />
+        <setting type="action" label="Uninstall" action="RunPlugin(plugin://plugin.video.stream/library/uninstall)" />
+
+        <setting label="Maintenance" type="lsep"/>
+        <setting type="action" label="Clear cache" action="RunPlugin(plugin://plugin.video.stream/cmd/clear_cache)" />
+
+        <setting label="SOCKS5 Proxy" type="lsep"/>
+        <setting id="use_socks" label="Use SOCKS5 proxy?" type="bool" default="false" />
+        <setting id="proxy_url" type="text" label="URL" default="localhost" />
+        <setting id="proxy_port" type="text" label="Port" default="9050" />
+        <setting id="proxy_user" type="text" label="Username (optional)" default="" />
+        <setting id="proxy_pass" type="text" label="Password (optional)" default="" />
+
+        <setting label="Custom domains" type="lsep"/>
+        <setting id="other" type="labelenum" label="Use 'Other' as" values="The Pirate Bay|Kickass Torrents" default="The Pirate Bay" />
+        <setting id="base_eztv" type="text" label="TV Shows" default="http://eztv.it" />
+        <setting id="base_yify" type="text" label="Movies" default="http://yts.re" />
+        <setting id="base_tpb" type="text" label="The Pirate Bay" default="http://thepiratebay.org" />
+        <setting id="base_kickass" type="text" label="Kickass Torrents" default="http://kickass.to"/>
+              
+        <setting label="Google Analytics" type="lsep"/>
+        <setting id="ga_disable" type="bool" label="Disable (except for index)" default="true" />
+
+        <setting label="XBMC Android" type="lsep"/>
+        <setting id="android_app_id" type="text" label="Custom Android Application ID" default="org.xbmc.xbmc" />
+    </category>
+</settings>
