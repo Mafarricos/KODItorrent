@@ -78,9 +78,6 @@ KODItorrent will seed the file you're watching until it's finished playing. For 
 #### Does it downloads the whole file? Do I need the space? Is it ever deleted?
 Yes and yes. KODItorrent will pre-allocate the whole file before download. So if you want to watch a 4GB video, you'll need the 4GB. The file is deleted once you stop watching it.
 
-#### Where is the file located? Can I change it?
-Currently the file is download in the same directory as the torrent2http executable (in resources/bin/<OS>/ in the addon directory). You cannot change it yet, but that will be configurable in the near future.
-
 #### Can I keep the file after playback?
 Yes, just enable this option in the addon settings.
 
