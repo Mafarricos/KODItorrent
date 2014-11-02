@@ -10,7 +10,7 @@ XBMCtorrent was created by [steeve](https://github.com/steeve) but is no longer 
 How is it different from XBMCtorrent?
 -------------------------------------
 KODItorrent has a more simple design and comes with more options. 
-Some of the extra options include being able to download the whole file instead of streaming it and having the option to download all MP4's and M4V's so you will no longer get playback issues like you see with XBMCtorrent. MAKE SURE TO CHECK OUT THE NEW SETTINGS!
+Some of the extra options include being able to download the whole file instead of streaming it, have users be able to set their own buffer size, and having the option to download all MP4's and M4V's so you will no longer get playback issues like you see with XBMCtorrent. MAKE SURE TO CHECK OUT THE NEW SETTINGS!
 
 Screenshots
 -----------
@@ -58,7 +58,7 @@ FAQ
 Spread the word. Talk about it with your friends, show them, make videos, tutorials. Talk about it on social networks, blogs etc...
 
 #### Does it work with all torrents?
-Almost all torrents can be played from KODItorrent
+Almost all torrents can be played from KODItorrent. MP4's and M4V's where know to cause issues in XBMCtorrent due to the index not being located at the beginning of the files but in KODItorrent you have to option to download the whole MP4's and M4V's files first so they will now play.
 
 #### The plugin doesn't work at all, what can I do?
 First of all, we need to make sure it's not the torrent fault. I usually test this by searching for small serie episodes on Piratebay. Try that, if it does't work, send me your xbmc.log.
