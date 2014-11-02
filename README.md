@@ -58,7 +58,7 @@ FAQ
 Spread the word. Talk about it with your friends, show them, make videos, tutorials. Talk about it on social networks, blogs etc...
 
 #### Does it work with all torrents?
-Almost all torrents can be played from KODItorrent. MP4's and M4V's where know to cause issues in XBMCtorrent due to the index not being located at the beginning of the files but in KODItorrent you have to option to download the whole MP4's and M4V's files first so they will now play.
+Almost all torrents can be played from KODItorrent. MP4's and M4V's where know to cause issues in XBMCtorrent due to the index not being located at the beginning of the files, but in KODItorrent you have to option to download the whole MP4 and M4V files first so they will now play.
 
 #### The plugin doesn't work at all, what can I do?
 First of all, we need to make sure it's not the torrent fault. I usually test this by searching for small serie episodes on Piratebay. Try that, if it does't work, send me your xbmc.log.
