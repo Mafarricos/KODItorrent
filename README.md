@@ -71,7 +71,7 @@ First of all, we need to make sure it's not the torrent fault. I usually test th
 Yes, although now if you try to seek to a part you haven't downloaded yet, XBMC will wait for that part to be available
 
 #### Can it stream HD?
-Of course! 720p and 1080p work fine, provided you have enough bandwidth, and there are enough people on the torrent (see video).
+Of course! 720p and 1080p work fine, provided you have enough bandwidth, and there are enough people on the torrent.
 
 #### Doesn't sequential download on bittorrent is bad?
 Generally, yes. However, KODItorrent respects the same [requirements "defined" by uTorrent 3](http://www.utorrent.com/help/faq/ut3#faq2[/url]). Also, KODItorrent tries to make it up to the swarm by seeding while you watch the movie.
