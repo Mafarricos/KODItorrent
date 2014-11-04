@@ -32,6 +32,8 @@ Screenshots
 
 Download
 --------
+[Download link: KODItorrent-1.0.2](https://mega.co.nz/#!SVA3SZIS!q1-XJbMEPO4ieykm4um73Mh3dZ6Xc4xnwsBQ-_NEfHs)
+
 [Download link: KODItorrent-1.0.1](https://mega.co.nz/#!nZA3lRBQ!LhUoqYvofjUvlGIrdkm3Bt41f-0yx3hB7y96nJg0D-k)
 
 [Download link: KODItorrent-1.0.0](https://mega.co.nz/#!rVxgAJiC!G94zLiwq3s4u5SCRuTMLcK4jshnoKtGzS8n268uLRjk)
