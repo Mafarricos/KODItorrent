@@ -1,9 +1,0 @@
-Must have one of these platforms:
-
-Windows x32 x64
-OS X x32 and x64
-Linux x32 and x64
-Raspberry Pi
-Android 4.0+
-
-Must have enough space to support the size of the file.
