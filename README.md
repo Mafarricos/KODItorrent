@@ -3,7 +3,7 @@ KODItorrent
 
 What it is
 ----------
-KODItorrent is a fork of XBMCtorret. Koditorrent allows you to stream bittorrent magnet links right from XBMC/KODI, without having to wait for the whole file to download, thanks to sequential download (see FAQ).
+KODItorrent is a fork of XBMCtorrent. Koditorrent allows you to stream bittorrent magnet links right from XBMC/KODI, without having to wait for the whole file to download, thanks to sequential download (see FAQ).
 
 XBMCtorrent was created by [steeve](https://github.com/steeve) but is no longer receiving updates. I created KODItorrent to add some improvements to its original design. Check out [Pulsar](http://forum.kodi.tv/showthread.php?tid=200957) to see steeve's newest project.
 
