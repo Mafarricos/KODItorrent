@@ -32,6 +32,9 @@ Screenshots
 
 Download
 --------
+[Download link: KODItorrent-1.1.0 (Kodi support)]
+(https://mega.co.nz/#!3FoShTZS!edGMntaazvVozWudGxYOvoeqqJ-fY7gMNiOHCEFIhNs)
+
 [Download link: KODItorrent-1.0.3 (Doctor Who fix)](https://mega.co.nz/#!TQ5GyKQZ!J38X45RUOgvgjw4QXWdX1x3VU0qy0hk4d4BRSAZaquA)
 
 [Download link: KODItorrent-1.0.2](https://mega.co.nz/#!SVA3SZIS!q1-XJbMEPO4ieykm4um73Mh3dZ6Xc4xnwsBQ-_NEfHs)
