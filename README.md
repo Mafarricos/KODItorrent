@@ -33,7 +33,7 @@ Screenshots
 Download
 --------
 [Download link: KODItorrent-1.1.2]
-(https://mega.co.nz/#!zUIi1C4T!mR2TkeM4MfThk47pGjSiKQBXhOPIau9ga50J0kw8d_w)
+(https://mega.co.nz/#!HUA0UTqR!PevztClIYu5mhw0K135MQPRW3hMxelbl07x45lRPtxg)
 
 [Download link: KODItorrent-1.1.1 (Fixed Failing TV Shows)]
 (https://mega.co.nz/#!rApiAAAB!SkYNiDQWH8aEWDZkhacUw_H0eNSVNxSQ_XPquED-3T0)
