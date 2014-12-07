@@ -27,17 +27,59 @@
         <setting label="Maintenance" type="lsep"/>
         <setting type="action" label="Clear cache" action="RunPlugin(plugin://plugin.video.stream/cmd/clear_cache)" />
 
-        <setting label="Custom domains" type="lsep"/>
-        <setting id="other" type="labelenum" label="Use 'Other' as" values="The Pirate Bay|Kickass Torrents" default="The Pirate Bay" />
-        <setting id="base_eztv" type="text" label="TV Shows" default="http://eztv.it" />
-        <setting id="base_yify" type="text" label="Movies" default="http://yts.re" />
-        <setting id="base_tpb" type="text" label="The Pirate Bay" default="http://thepiratebay.org" />
-        <setting id="base_kickass" type="text" label="Kickass Torrents" default="http://kickass.to"/>
-              
         <setting label="Google Analytics" type="lsep"/>
         <setting id="ga_disable" type="bool" label="Disable (except for index)" default="true" />
 
         <setting label="XBMC Android" type="lsep"/>
         <setting id="android_app_id" type="text" label="Custom Android Application ID" default="org.xbmc.xbmc" />
     </category>
+    <category label="Scrapers"> 
+    	<setting label="EZTV Series Torrents" type="lsep"/>
+    	<setting id="display_eztv" label="Display" type="bool" default="true" />
+    	<setting id="eztv_label" type="text" label="Label" default="TV Shows" />
+    	<setting id="eztv_picture" type="text" label="Picture link" default="http://i.imgur.com/FDwFjse.png" />
+    	<setting id="base_eztv" type="text" label="Domain" default="http://eztv.it" />
+    	
+ 		<setting label="YIFY Moives Torrents" type="lsep"/>
+    	<setting id="display_yify" label="Display" type="bool" default="true" />
+    	<setting id="yify_label" type="text" label="Label" default="Movies" />
+    	<setting id="yify_picture" type="text" label="Picture link" default="http://i.imgur.com/PrwiRH8.png" />
+    	<setting id="base_yify" type="text" label="Domain" default="http://yts.re" />
+    	
+ 		<setting label="The Pirate Bay" type="lsep"/>
+    	<setting id="display_tpb" label="Display" type="bool" default="true" />
+    	<setting id="tpb_label" type="text" label="Label" default="The Pirate Bay" />
+ 		<setting id="tpb_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />   	
+    	<setting id="base_tpb" type="text" label="Domain" default="http://thepiratebay.org" />
+    	
+		<setting label="Kickass Torrents" type="lsep"/>    		
+    	<setting id="display_kat" label="Display" type="bool" default="true" />
+    	<setting id="kat_label" type="text" label="Label" default="Kickass Torrents" />
+ 		<setting id="kat_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />      	
+    	<setting id="base_kickass" type="text" label="Domain" default="http://kickass.to"/>
+    	
+		<setting label="BitSnoop - Search Engine" type="lsep"/>    		
+    	<setting id="display_bitsnoop" label="Display" type="bool" default="true" />
+    	<setting id="bitsnoop_label" type="text" label="Label" default="BitSnoop Search" />
+ 		<setting id="bitsnoop_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />      	
+    	<setting id="base_bitsnoop" type="text" label="Domain" default="http://bitsnoop.com"/>
+    	
+ 		<setting label="BTDigg - DHT Search Engine" type="lsep"/>    		
+    	<setting id="display_btdigg" label="Display" type="bool" default="true" />
+    	<setting id="btdigg_label" type="text" label="Label" default="BTDigg Search" />
+ 		<setting id="btdigg_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />      	
+    	<setting id="base_btdigg" type="text" label="Domain" default="http://btdigg.org"/>
+    	
+		<setting label="ExtraTorrent - Movies, Series, Anime" type="lsep"/>    		
+    	<setting id="display_extratorrent" label="Display" type="bool" default="true" />
+    	<setting id="extratorrent_label" type="text" label="Label" default="ExtraTorrent" />
+ 		<setting id="extratorrent_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />      	
+    	<setting id="base_extratorrent" type="text" label="Domain" default="http://extratorrent.cc" />
+    	
+ 		<setting label="NyaaTorrents - Anime" type="lsep"/>    		
+    	<setting id="display_nyaa" label="Display" type="bool" default="true" />
+    	<setting id="nyaa_label" type="text" label="Label" default="NyaaTorrents" />
+ 		<setting id="nyaa_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />      	
+    	<setting id="base_nyaa" type="text" label="Domain" default="http://www.nyaa.se" />
+    </category>    	
 </settings>
