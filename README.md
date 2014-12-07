@@ -10,7 +10,7 @@ XBMCtorrent was created by [steeve](https://github.com/steeve) but is no longer 
 How is it different from XBMCtorrent?
 -------------------------------------
 KODItorrent has a more simple design and comes with more options. 
-Some of the extra options include being able to download the whole file instead of streaming it, setting your own buffer size, hide scrapers, change lables and pictures. KODItorrennt also uses a fork of qtfaststart so you will no longer get the playback issues like you see in XBMCtorrent. MAKE SURE TO CHECK OUT THE NEW SETTINGS!
+Some of the extra options include being able to download the whole file instead of streaming it, setting your own buffer size, hide scrapers, and change lables and pictures. KODItorrennt also uses a fork of qtfaststart so you will no longer get the playback issues like you see in XBMCtorrent. MAKE SURE TO CHECK OUT THE NEW SETTINGS!
 
 Screenshots
 -----------
