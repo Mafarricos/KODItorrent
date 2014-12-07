@@ -79,13 +79,15 @@
  		<setting label="NyaaTorrents - Anime" type="lsep"/>    		
     	<setting id="display_nyaa" label="Display" type="bool" default="true" />
     	<setting id="nyaa_label" type="text" label="Label" default="NyaaTorrents" />
-      <setting id="nyaa_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />      	
+      	<setting id="nyaa_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />      	
     	<setting id="base_nyaa" type="text" label="Domain" default="http://www.nyaa.se" />
     
-    <setting label="Zelka.org" type="lsep"/>
-      <setting id="display_zelka" label="Display" type="bool" default="true" /> 
-      <setting id="base_zelka" type="text" label="Zelka" default="http://zelka.org" />
-      <setting label="Zelka User" id="z_usr" type="text" default="" />
-      <setting label="Zelka Password" id="z_pass" type="text" default="" option="hidden" />
+    	<setting label="Zelka.org - Search Engine" type="lsep"/>
+      	<setting id="display_zelka" label="Display" type="bool" default="true" /> 
+      	<setting id="zelka_label" type="text" label="Label" default="Zelka Search" />	
+      	<setting id="zelka_picture" type="text" label="Picture link" default="http://i.imgur.com/kYDKHGo.png" />	
+      	<setting id="base_zelka" type="text" label="Domain" default="http://zelka.org" />
+      	<setting label="Zelka User" id="z_usr" type="text" default="" />
+      	<setting label="Zelka Password" id="z_pass" type="text" default="" option="hidden" />
     </category>    	
 </settings>
